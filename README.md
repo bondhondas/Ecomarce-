@@ -18,5 +18,5 @@ Here are some features. It is described below:
 * Admin can also delete and update a order.
 
 Best Regards \
-Md. Rifat Islam
+Bondhon Das
  
